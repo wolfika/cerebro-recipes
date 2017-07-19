@@ -7,7 +7,7 @@
 
 In Cerebro, type `recipes something` or `something recipes`, to find food and drink recipes.
 
-Clicking or pressing Enter on a result item will take you to the recipe's details page.
+Clicking or pressing Enter on an item will take you to the recipe's details page.
 
 
 ## Related
