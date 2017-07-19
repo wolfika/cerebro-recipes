@@ -2,7 +2,7 @@
 
 > [Cerebro](https://cerebroapp.com/) plugin to find food and drink recipes using the [Recipe Puppy](http://www.recipepuppy.com/) API.
 
-<center>![Screenshot of cerebro-recipes](screenshot.gif)</center>
+![Screenshot of cerebro-recipes](screenshot.gif)
 
 ## Usage
 
